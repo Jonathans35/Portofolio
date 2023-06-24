@@ -1,2 +1,2 @@
 # Portofolio
-My Personal portofolio regarding works and creation that I have made
+Jonathan Stanley's personal portofolio repository to showcase his projects, works, and creation 
